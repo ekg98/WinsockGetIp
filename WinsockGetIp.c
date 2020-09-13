@@ -1,4 +1,4 @@
-// WinsockGetIp.c:  Simple winsock program to get your IP.
+// WinsockGetIp.c:  Simple winsock program to get your IP and other associated information with your network adapters
 
 #ifdef _WIN32
 	#ifndef _WIN32_WINNT
